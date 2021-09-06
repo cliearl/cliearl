@@ -10,5 +10,5 @@
 
 ## 💬 Social
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6V7LBEgcoTZUUgUU0Jv3xg?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/coder_frozen?style=social)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6V7LBEgcoTZUUgUU0Jv3xg?style=social)](https://www.youtube.com/channel/UC6V7LBEgcoTZUUgUU0Jv3xg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/coder_frozen?style=social)](https://twitter.com/coder_frozen)
